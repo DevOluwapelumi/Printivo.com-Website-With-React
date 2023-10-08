@@ -24,3 +24,16 @@ Currently, two official plugins are available:
     #SWC
     #DevelopmentTools
     #HMR (Hot Module Replacement)
+
+For Printivo.com:
+
+    #PrintingServices
+    #OnlinePrinting
+    #NigerianBusiness
+    #PrintingSolutions
+    #BusinessCards
+    #BrochurePrinting
+    #BannerPrinting
+    #PrintShop
+    #NigerianStartup
+    #HighQualityPrinting
