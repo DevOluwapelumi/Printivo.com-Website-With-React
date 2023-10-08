@@ -9,3 +9,18 @@ Currently, two official plugins are available:
 
 
  Printivo.com was a Nigerian online printing company that offered services such as business card printing, brochure printing, banner printing, and various other printing services. They catered to individuals, small businesses, and organizations looking for high-quality printing solutions.
+
+ For the React + Vite template:
+
+    #React
+    #Vite
+    #JavaScript
+    #WebDevelopment
+    #Frontend
+    #ReactJS
+    #BuildTools
+    #ESLint
+    #Babel
+    #SWC
+    #DevelopmentTools
+    #HMR (Hot Module Replacement)
