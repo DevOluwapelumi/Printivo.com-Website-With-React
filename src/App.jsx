@@ -20,14 +20,14 @@ const App = () => {
                     <span className="sm:inline hidden">Need help? Call: </span>
                     <span>
                       <a href="tel:234.809.108.4333" className="call-link">
-                        +2348091084333
+                        +2347047142093
                       </a>
                     </span>
                   </div>
                 </div>
                 <div className="flex items-center pl-2">
                   <a
-                    href="https://wa.me/2348091085333"
+                    href="https://wa.me/2347047142093"
                     target="_blank"
                     rel="noopener noreferrer">
                     <img
@@ -102,7 +102,7 @@ const App = () => {
                 <a className="font-sf sm:text-base text-sm">See All Products</a>
               </div>
               <div className="c-preview__main mt-6">
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -117,11 +117,11 @@ const App = () => {
                       <span>per 100</span>
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG">
-                      <span className="bg-danger">Browse Two-sided Bu...</span>
+                      <button className="btn_btn-danger">Browse Two-sided Bu...</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -136,11 +136,11 @@ const App = () => {
                       <span>per 100</span>
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG">
-                      <span className="bg-danger">Browse A5 flyers (S...</span>
+                      <button className="btn_btn-danger">Browse A5 flyers (S...</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -155,11 +155,11 @@ const App = () => {
                       <span>per 100</span>
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG">
-                      <span className="bg-danger">Browse Round Sticke...</span>
+                      <button className="btn_btn-danger">Browse Round Sticke...</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -175,11 +175,11 @@ const App = () => {
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
                       href="product/simple-mugs.html" >
-                      <span className="bg-danger">Browse Simple Mugs</span>
+                      <button className="btn_btn-danger">Browse Simple Mugs</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -195,11 +195,11 @@ const App = () => {
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
                       href="product/postcards-a6.html" >
-                      <span className="bg-danger">Browse Postcards (A...</span>
+                      <button className="btn_btn-danger">Browse Postcards (A...</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -216,11 +216,11 @@ const App = () => {
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
                       href="product/roll-up-banners-big-base.html"
                     >
-                      <span className="bg-danger">Browse Roll Up Bann...</span>
+                      <button className="btn_btn-danger">Browse Roll Up Bann...</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -236,11 +236,11 @@ const App = () => {
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
                       href="product/a2-posters.html" >
-                      <span className="bg-danger">Browse A2 Posters</span>
+                      <button className="btn_btn-danger">Browse A2 Posters</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -256,11 +256,11 @@ const App = () => {
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
                       href="product/trifold-brochures.html" >
-                      <span className="bg-danger">Browse Trifold Broc...</span>
+                      <button className="btn_btn-danger">Browse Trifold Broc...</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -276,11 +276,11 @@ const App = () => {
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
                       href="product/landscape-id-cards.html" >
-                      <span className="bg-danger">Browse Landscape ID...</span>
+                      <button className="btn_btn-danger">Browse Landscape ID...</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -296,11 +296,11 @@ const App = () => {
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
                       href="product/off-white-t-shirts.html" >
-                      <span className="bg-danger">Browse Off White T-...</span>
+                      <button className="btn_btn-danger">Browse Off White T-...</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -316,11 +316,11 @@ const App = () => {
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
                       href="product/a4-branded-paper-bags.html">
-                      <span className="bg-danger">Browse A4 Branded P...</span>
+                      <button className="btn_btn-danger ">Browse A4 Branded P...</button>
                     </a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -336,7 +336,7 @@ const App = () => {
                     </h3>
                     <a
                       className="Button__StyledLink-sc-1f6zs39-1 kdzEVG">
-                      <span className="bg-danger">Browse A4 Courier B...</span>
+                      <button className="btn_btn-danger">Browse A4 Courier B...</button>
                     </a>
                   </div>
                 </div>
@@ -350,7 +350,7 @@ const App = () => {
                   >See All Categories</a >
               </div>
               <div className="c-preview__main mt-6">
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -362,19 +362,16 @@ const App = () => {
                     <p className="uppercase mb-2">starting at</p>
                     <h3 className="mb-5 text-xl">
                       ₦19,000
-                      <span
-                        >per
+                      <span>per
                         50</span>
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
-                      href="category/greeting-cards.html"
-                      ><span className="bg-danger"
+                      href="category/greeting-cards.html"><button className="btn_btn-danger"
                         >Browse
-                        Greeting Car...</span
-                      ></a>
+                        Greeting Car...</button></a>
                   </div>
                 </div>
-                <div className="c-preview__box font-sf cursor-pointer">
+                <div className="c-preview__box shadow-lg font-sf cursor-pointer">
                   <div className="c-box__image">
                     <img
                       className="w-full"
@@ -386,16 +383,11 @@ const App = () => {
                     <p className="uppercase mb-2">starting at</p>
                     <h3 className="mb-5 text-xl">
                       ₦5,400
-                      <span
-                        >per
-                        75</span  >
+                      <span>per 75</span  >
                     </h3>
                     <a className="Button__StyledLink-sc-1f6zs39-1 kdzEVG"
-                      href="category/stickers"
-                      ><span className="bg-danger"
-                        >Browse
-                        Stickers
-                      </span></a>
+                      href="category/stickers"><button className="btn_btn-danger" >BrowseStickers
+                      </button></a>
                   </div>
                 </div>
               </div>

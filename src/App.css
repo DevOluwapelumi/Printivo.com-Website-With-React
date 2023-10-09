@@ -3085,7 +3085,7 @@ a.disabled {
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05),
     0 10px 34px -16px rgba(0, 0, 0, 0.08), 0 6px 4px hsla(0, 0%, 64.3%, 0.06);
   border-radius: 3px 3px 0 0;
-  background-color: rgb(224, 163, 163);
+  background-color: rgb(185, 178, 166);
   display: flex;
   flex-direction: column;
 }
